@@ -10,7 +10,7 @@ Use Postman or Browser (Recommend Chrome) to connection (Get Method) to http://l
 
 ## Usage
 
-Generage 5 random "Student" element from list everytime we use get method.
+Generate 5 random "Student" element from list everytime we use get method.
 
 ## Conclusion
 
